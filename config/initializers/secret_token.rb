@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-ColonBackslash::Application.config.secret_key_base = '343a5b99f866fab23461e040b2a458aa3d4e542cebb5c6fbf56de85e88ef84f1664eca63606dca7bd6721e61d70434abd7d716ab67aca95d0f1240ebb5dc4ec2'
+ColonBackslash::Application.config.secret_key_base = '16c70f2b8be93bf6764707c39dfd32f5203f19679f780199cfa8d41df3fbea632cd3a31dcd1eb452ff4cc9b6431d7c3ada2fcd390bc30cd2afa8506d5b7c97d5'
